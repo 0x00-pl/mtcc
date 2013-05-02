@@ -3,8 +3,11 @@
 *.lo
 *.o
 
-# vs user file
-*.user
+# VS file
+*.pdb
+*.vcproj.*.user
+[Dd]ebug
+[Rr]elease
 
 # Compiled Dynamic libraries
 *.so
