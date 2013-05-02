@@ -3,12 +3,6 @@
 *.lo
 *.o
 
-# VS file
-*.pdb
-*.vcproj.*.user
-[Dd]ebug
-[Rr]elease
-
 # Compiled Dynamic libraries
 *.so
 *.dylib
@@ -17,3 +11,20 @@
 *.lai
 *.la
 *.a
+
+# VS User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# VS Build results
+[Dd]ebug/
+[Rr]elease/
