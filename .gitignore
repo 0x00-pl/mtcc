@@ -3,6 +3,9 @@
 *.lo
 *.o
 
+# vs user file
+*.user
+
 # Compiled Dynamic libraries
 *.so
 *.dylib
